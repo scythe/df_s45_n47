@@ -1,0 +1,10 @@
+
+First thing I wrote in ClojureScript. As described:
+
+"gives each odd number n < 10000 with the property that n_p is not forced to be
+ 1 by the congruence condition of Sylow's theorem"
+"gives for each n the factorization into prime powers and ... all permissible
+ values of n_p"
+"the same process ... for all even numbers less than 1000"
+
+This would have been simpler if I had known the language to start with.
